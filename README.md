@@ -1,6 +1,8 @@
-# greengrocer
+# Greengrocer
 
-A new Flutter project.
+Grocery Store App
+
+![Greengrocer image](greengrocer.png)
 
 ## Getting Started
 
